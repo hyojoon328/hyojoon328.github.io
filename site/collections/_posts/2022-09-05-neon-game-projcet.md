@@ -6,7 +6,7 @@ description: neon
 tags:
   - C++
   - OpenGL
-image:
+image: /uploads/gplay4.gif
 ---
 &nbsp;
 
