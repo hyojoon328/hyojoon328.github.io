@@ -6,7 +6,7 @@ description: ...
 tags:
   - JavaScript
   - p5.Js
-image:
+image: /uploads/projPic/jackpotPlay_2.gif
 ---
 &nbsp;
 

@@ -6,7 +6,7 @@ description: unity,
 tags:
   - Unity
   - C#
-image:
+image: /uploads/projPic/megaloPlay_4.gif
 ---
 &nbsp;
 

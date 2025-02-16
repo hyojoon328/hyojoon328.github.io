@@ -6,7 +6,7 @@ description: ...
 tags:
   - C++
   - SFML
-image:
+image: /uploads/jackpotplay-3.gif
 ---
 &nbsp;
 
