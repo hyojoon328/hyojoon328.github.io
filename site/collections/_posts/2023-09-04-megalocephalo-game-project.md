@@ -1,0 +1,17 @@
+---
+_schema: default
+date: 2023-09-04 00:00:00
+title: Megalocephalo, Game project
+description: unity,
+tags:
+  - Unity
+  - C#
+image:
+---
+&nbsp;
+
+<iframe width="825" height="464" src="https://www.youtube.com/embed/I9IjghL1K00" title="MEGALOCEPHALO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+&nbsp;
+
+&nbsp;
