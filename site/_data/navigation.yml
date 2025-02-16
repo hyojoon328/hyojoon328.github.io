@@ -6,7 +6,7 @@ menu__settings:
     - title: Projects
       url: /blog/
     - title: Resume
-      url: /collections/_projects/resume.md
+      url: /projects/
     - title: About
       url: /about/
     - title: Pages
