@@ -1,7 +1,7 @@
 ---
 _schema: default
 date: 2020-03-09 00:00:00
-title: Jackpot, Game project
+title: Jackpot
 description: ...
 tags:
   - C++

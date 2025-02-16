@@ -1,7 +1,7 @@
 ---
 _schema: default
 date: 2023-09-04 00:00:00
-title: Megalocephalo, Game project
+title: Megalocephalo
 description: unity,
 tags:
   - Unity

@@ -1,7 +1,7 @@
 ---
 _schema: default
 date: 2022-09-05 00:00:00
-title: NEON, Game projcet
+title: NEON
 description: neon
 tags:
   - C++
