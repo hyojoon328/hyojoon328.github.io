@@ -4,9 +4,11 @@ menu__settings:
     - title: Home
       url: /
     - title: Projects
-      url: /projects/
-    - title: Blog
       url: /blog/
+    - title: Resume
+      url: /collections/_projects/resume.md
+    - title: About
+      url: /about/
     - title: Pages
       submenu:
         - url: /about/
