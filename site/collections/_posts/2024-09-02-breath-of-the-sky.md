@@ -7,6 +7,6 @@ tags:
   - Unity
   - C#
   - VR
-image:
+image: /uploads/bots-gameplay1.gif
 ---
 VR
