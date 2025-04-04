@@ -1,0 +1,15 @@
+logo_image: /uploads/logosvgver.svg
+menu__settings:
+  menu__items:
+    - title: Home
+      url: /
+    - title: Projects
+      url: /blog/
+    - title: Resume
+      url: /projects/
+    - title: About
+      url: /about/
+    - title: Pages
+      submenu:
+        - url: /about/
+          title: About
