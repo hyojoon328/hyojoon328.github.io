@@ -5,7 +5,7 @@ footer_menu__settings:
     - title: Projects
       url: /blog/
     - title: Resume
-      url: /projects/resume
+      url: /project/resume
     - title: About
       url: /about/
 copyright_text_html: >-
