@@ -8,8 +8,9 @@ image: /uploads/resumeV3_pdf-1.png
 Resume page...
 
 &nbsp;
-
-<iframe src="https://drive.google.com/file/d/1KZONzUkOMHrcomw7wa7qKW-N7XMaqwRv/preview" frameborder="0"></iframe>
+<div class="pdf-container">
+  <iframe src="https://drive.google.com/file/d/1KZONzUkOMHrcomw7wa7qKW-N7XMaqwRv/preview" frameborder="0"></iframe>
+</div>
 
 &nbsp;
 
