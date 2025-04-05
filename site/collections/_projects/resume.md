@@ -9,7 +9,7 @@ Resume page...
 
 &nbsp;
 <div class="pdf-container">
-  <iframe src="https://drive.google.com/file/d/1KZONzUkOMHrcomw7wa7qKW-N7XMaqwRv/preview" frameborder="0"></iframe>
+  <iframe src="https://drive.google.com/file/d/1KZONzUkOMHrcomw7wa7qKW-N7XMaqwRv/preview#page=1&zoom=FitH" width="100%" height="600px"></iframe>
 </div>
 
 &nbsp;
