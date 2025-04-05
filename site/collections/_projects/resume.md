@@ -9,7 +9,7 @@ Resume page...
 
 &nbsp;
 
-<iframe  src="https://drive.google.com/file/d/1KZONzUkOMHrcomw7wa7qKW-N7XMaqwRv/view?usp=sharing" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1KZONzUkOMHrcomw7wa7qKW-N7XMaqwRv/preview" frameborder="0"></iframe>
 
 &nbsp;
 
