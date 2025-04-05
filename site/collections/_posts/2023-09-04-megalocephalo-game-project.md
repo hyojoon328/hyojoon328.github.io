@@ -2,7 +2,9 @@
 _schema: default
 date: 2023-09-04 00:00:00
 title: Megalocephalo
-description: unity,
+description: |-
+  08/2023 – 04/2024
+  Team size of 8
 tags:
   - Unity
   - C#

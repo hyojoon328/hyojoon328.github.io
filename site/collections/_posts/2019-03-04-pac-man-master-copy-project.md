@@ -2,7 +2,10 @@
 _schema: default
 date: 2019-03-04 00:00:00
 title: Pac-Man
-description: 'Master Copy Project, '
+description: |-
+  09/2019 - 10/2019
+  Master Copy Project
+  Team size of 3
 tags:
   - JavaScript
   - p5.Js
