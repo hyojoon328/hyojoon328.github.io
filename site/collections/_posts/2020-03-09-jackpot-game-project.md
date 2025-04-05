@@ -12,4 +12,9 @@ image: /uploads/jackpotplay-3.gif
 
 <iframe width="825" height="464" src="https://www.youtube.com/embed/3Y_4U6b7VPw" title="JACKPOT - Poker tower defense game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-asfdfsdfsdf
+A tower defense game featuring poker cards, requiring strategic placement and combinations to boost damage and block
+
+* Implemented an **A\* pathfinding** algorithm in the game.
+* Developed a **custom** **engine** using C++.
+* Implemented various components within the engine. Coached teammates how to use new components. Boosted the development speed.
+* Implemented **object pooling** for ** ** bullets and monsters to resolve the game's frame drop issues.
