@@ -2,9 +2,7 @@
 _schema: default
 date: 2022-09-05 00:00:00
 title: NEON
-description: |-
-  09/2022 – 06/2023
-  Team size of 5
+description: 09/2022 – 06/2023, Team size of 5
 tags:
   - C++
   - OpenGL

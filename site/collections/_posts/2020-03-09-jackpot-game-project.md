@@ -2,9 +2,7 @@
 _schema: default
 date: 2020-03-09 00:00:00
 title: Jackpot
-description: |-
-  03/2020 – 06/2020
-  Team size of 3
+description: 03/2020 – 06/2020, Team size of 3
 tags:
   - C++
   - SFML
