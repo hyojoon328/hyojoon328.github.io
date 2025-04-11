@@ -2964,6 +2964,7 @@
   }
   .post__share {
     margin: 32px 0 60px;
+    /**/
   }
   .post__share .share__head {
     margin-bottom: 20px;
@@ -3221,6 +3222,20 @@
   }
 }
 @media all, bookshop {
+  .pdf-container {
+    position: relative;
+    width: 100%;
+    padding-top: 129.41%; /* 11/8.5 * 100 */
+    overflow: hidden;
+  }
+  .pdf-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
   .c-blog-card {
     margin-bottom: 20px;
     will-change: transform;
